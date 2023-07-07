@@ -56,7 +56,7 @@ session_start();
     $host = "localhost";
     $user = "root"; 
     $password = ""; 
-    $database = "Milestone"; 
+    $database = "Grocery Management System"; 
 
     // Create connection
     $conn = new mysqli($host, $user, $password, $database);

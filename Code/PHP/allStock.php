@@ -95,7 +95,7 @@ body {
         $server = "localhost";
         $user = "root";
         $password = "";
-        $dbname = "Milestone";
+        $dbname = "Grocery Management System";
 
         // Creating the connection
         $conn = mysqli_connect($server, $user, $password, $dbname);
