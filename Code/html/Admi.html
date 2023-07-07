@@ -1,0 +1,59 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <title>Welcome to Storage System</title>
+    <link rel="stylesheet" href="/TaskB/css/navbar.css">
+    <link rel="stylesheet" href="/TaskB/css/header.css">
+    <link rel="stylesheet" href="/TaskB/css/admi.css">
+    <script src="/TaskB/js/navbar.js" defer></script>
+
+</head>
+
+<body>
+<header>
+    <div class="head">
+        <h1>Storage System</h1>
+    </div>
+</header>
+    <!-- The navigation bar -->
+    <nav class="navbar">
+        <!--    Show toggle button-->
+        <a href="#" class="toggle-button">
+            <span class="bar"></span>
+            <span class="bar"></span>
+            <span class="bar"></span>
+        </a>
+        <!--    Show  navbar links-->
+        <div class="navbarLink">
+        <ul>
+            <li><a href="/taskb/html/Admi.html">Administrator</a></li>
+            <li><a href="/taskb/php/resiInfo.php">ResidentInfo</a></li>
+            <li><a href="/taskb/php/stockHis.php">StockHis</a></li>
+            <li><a href="/taskb/php/allStock.php">AllStock</a></li>
+            <li><a href="/taskb/php/violation.php">Violation</a></li>
+            <li><a href="/taskb/html/Login.html">Login</a></li>
+            <li><a href="/taskb/html/Register.html">Register</a></li>
+        </ul>
+        </div>
+
+    </nav>
+    <div id="content" align = "center">
+
+            <form action="resiInfo.php" method="POST">
+                <button class="reidentButton">Resident Info</button> 
+            </form>
+            <form action="stockHis.php" method="POST">
+                <button class="stockHisButton">Stock History</button> 
+            </form>
+
+            <form action="allStock.php" method="POST">
+                <button class="allStockButton">All Stock Record</button> 
+                </form>
+            <form action="violation.php" method="POST">
+                <button class="generateButton">Generate Violation Record</button> 
+            </form>
+
+    </div>
+</body>
+</html>

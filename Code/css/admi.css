@@ -1,0 +1,120 @@
+html {
+  height: 100%;
+}
+
+
+#header{
+    font-size: 40px;
+    width:500px;
+    margin: 0 auto;
+    text-align: center;
+}
+
+body {
+    text-align: center;
+}
+#admin-page{
+  margin: auto;
+  width: 50%;
+  border: 3px solid green;
+  padding: 10px;
+}
+
+#button1{
+    text-align: center;
+    display: flex;
+}
+
+#button2{
+    text-align: center;
+    display: flex;
+}
+
+.reidentButton{
+  background-color: #CDB7F6;
+  border: none;
+  color: Black;
+  padding: 10px 24px;
+  cursor: pointer;
+  width: 20%;
+  display: flex;
+  text-align: center;
+
+}
+
+.reidentButton:after{
+  content: "";
+  display: block;
+  padding-bottom: 100%;
+}
+
+.reidentButton:hover{
+    background-color: #B19CD9;
+    opacity:1;
+}
+
+
+.stockHisButton{
+  background-color: #ADD8E6;
+  border: none;
+  color: Black;
+  padding: 10px 24px;
+  cursor: pointer;
+  width: 20%;
+  display: block;
+  text-align: center;
+}
+.stockHisButton:after{
+  content: "";
+  display: block;
+  padding-bottom: 100%;
+}
+
+.stockHisButton:hover{
+    background-color: #4F97A3;
+    opacity:1;
+}
+
+.allStockButton{
+  background-color: #DFC98A;
+  border: none;
+  color: Black;
+  padding: 10px 24px;
+  cursor: pointer;
+  width: 20%;
+  display: block;
+  text-align: center;
+}
+
+.allStockButton:after{
+  content: "";
+  display: block;
+  padding-bottom: 100%;
+}
+
+.allStockButton:hover{
+    background-color: #D8B863;
+    opacity:1;
+}
+
+.generateButton{
+  background-color: #B2D3C2;
+  border: none;
+  color: Black;
+  padding: 10px 24px;
+  cursor: pointer;
+  width: 20%;
+  display: block;
+  text-align: center;
+}
+
+.generateButton:after {
+  content: "";
+  display: block;
+  padding-bottom: 100%;
+}
+
+.generateButton:hover {
+    background-color: #728C69;
+    opacity:1;
+}
