@@ -4,3 +4,5 @@
 Here show how the systeem works:
 ### 1. User sign in with there userID and password:
 ![Alt text](https://github.com/William-07/Grocery-Management-System-for-Dormitory-Refrigerators/blob/main/GIF/Login.gif "GIF Title")
+![Alt text](https://github.com/William-07/Grocery-Management-System-for-Dormitory-Refrigerators/blob/main/GIF/Login2.gif "GIF Title")
+
