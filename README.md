@@ -15,4 +15,17 @@
 ### For Admin User(Dormitory Officer)
 
 
-#### 1.
+#### 1. Login as a admin user
+<img src="https://github.com/William-07/Grocery-Management-System-for-Dormitory-Refrigerators/blob/main/GIF/Admin_1_login.gif" width="800" height="450"/>
+
+#### 2. See the Resident information in the dormitory
+<img src="https://github.com/William-07/Grocery-Management-System-for-Dormitory-Refrigerators/blob/main/GIF/Admin_2_ResidentInfo.gif" width="800" height="450"/>
+
+#### 3. See users' stock history
+<img src="https://github.com/William-07/Grocery-Management-System-for-Dormitory-Refrigerators/blob/main/GIF/Admin_3_StockHistory.gif" width="800" height="450"/>
+
+#### 4. See groceries that is in refrigerators right now  
+<img src="https://github.com/William-07/Grocery-Management-System-for-Dormitory-Refrigerators/blob/main/GIF/Admin_4_AllStock.gif" width="800" height="450"/>
+
+#### 5. See resident who violate the refrigerator storage policy(resident who has grocery that stored in the refrigerator over 2 weeks)
+<img src="https://github.com/William-07/Grocery-Management-System-for-Dormitory-Refrigerators/blob/main/GIF/Admin_5_Violation.gif" width="800" height="450"/>
