@@ -1,5 +1,5 @@
 # Grocery Management System for dormitory
-## A Grocery Management System for dormitory for staff to regulate the usage of the refrigerator in the dormitory
+#### A Grocery Management System for dormitory for officers to regulate the usage of the refrigerator in the dormitory
 
 ### For Normal User(Resident)
 #### 1. User sign in with there userID and password and see groceries that they stored in the refrigerator:
